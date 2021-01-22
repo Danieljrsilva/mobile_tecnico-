@@ -1,0 +1,15 @@
+<resources>
+    <!-- App -->
+    <string name="app_name">Agenda</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- ContatoActvity -->
+    <string name="nome">Nome</string>
+    <string name="email">E-mail</string>
+    <string name="telefone">Telefone</string>
+    <string name="celular">Celular</string>
+
+    <string name="salvar">Salvar</string>
+    <string name="excluir">Excluir</string>
+
+</resources>
