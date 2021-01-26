@@ -1,2 +1,2 @@
 # mobile_tecnico 
- trabalho realizado em aula
+ trabalho de TCC realizado em aula para etec João Belarmino.
